@@ -4,6 +4,10 @@ A browser-based interactive pathfinding tool that implements **Dijkstra's Algori
 
 ---
 
+![Map Navigation Screenshot](./WhatsApp%20Image%202025-08-04%20at%2016.48.31_f41d6070.jpg)
+![Map Navigation Screenshot](./WhatsApp%20Image%202025-08-04%20at%2016.48.31_f41d6070.jpg)
+![Map Navigation Screenshot](./WhatsApp%20Image%202025-08-04%20at%2016.48.31_f41d6070.jpg)
+
 ## 🔍 Features
 
 - 🎯 **Start & Destination Selection** via dropdowns
